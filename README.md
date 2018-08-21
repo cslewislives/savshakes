@@ -1,2 +1,2 @@
-# savshakes
-Main website for the Savannah based non-profit theatre company Savannah Shakes
+# Savannah Shakes
+Main website for Savannah Shakes a Savannah based, non-profit, theatre company.
